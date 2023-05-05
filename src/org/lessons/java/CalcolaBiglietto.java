@@ -20,7 +20,7 @@ public static void main(String[] args) {
 		int scontoOver =age*40/100;
 	}
 	
-	Double ticketPrice= (age*0.21);
+	Double ticketPrice=age*0.21;
 	System.out.println("Il tuo biglietto costa €" + ticketPrice);
 
 	
